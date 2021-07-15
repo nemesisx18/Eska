@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c57f9fc778a54745977fac795aef04b, type: 3}
+  m_Name: Aragog
+  m_EditorClassIdentifier: 
+  characterName: Aragog
+  characterPreviewPrefab: {fileID: 919132149155446097, guid: e87ba54b348ee54498df7ffda5f5a78a,
+    type: 3}
+  gameplayCharacterPrefab: {fileID: 3537972149263922513, guid: 118f230f45f5a2b4c89c7611cc7bd34b,
+    type: 3}
